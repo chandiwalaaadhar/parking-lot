@@ -1,0 +1,11 @@
+{
+  "name": "parking_lot",
+  "version": "1.0.0",
+  "description": "Parking Lot Design",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Aadhar Chandiwala",
+  "license": "ISC"
+}
