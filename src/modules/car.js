@@ -9,3 +9,5 @@ class Car {
     this.color = color;
   }
 }
+
+module.exports = Car;
