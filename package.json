@@ -4,8 +4,12 @@
   "description": "Parking Lot Design",
   "main": "src/index.js",
   "scripts": {
-    "test": ""
+    "test": "mocha tests/check.js"
   },
   "author": "Aadhar Chandiwala",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
 }
